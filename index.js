@@ -6,6 +6,7 @@ const backEndRoutes=require("./backend/routes");
 app.use(express.json());
 
 //Front End Routes
+app.get("/",frontEndRoutes.displayHome);
 app.get("/tables",frontEndRoutes.displayTables);
 app.get("/reservation",frontEndRoutes.displayReservationForm);
 
