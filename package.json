@@ -1,0 +1,22 @@
+{
+  "name": "hot_restaurant",
+  "version": "1.0.0",
+  "description": "This is Week 13 Day 3 class project.  We are developing an web base app that tracks table reservations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlphaExplorer/hot_restaurant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlphaExplorer/hot_restaurant/issues"
+  },
+  "homepage": "https://github.com/AlphaExplorer/hot_restaurant#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
